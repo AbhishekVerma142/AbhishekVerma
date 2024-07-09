@@ -8,10 +8,8 @@ As an Individual Contributor, my daily contributions revolve around:
 
 designing and implementing features with robustness and implications in mind,
 code architecture, codebase consolidation, untangling legacy code, and increasing code coverage,
-shipping APIs used by millions of users,
-interacting with databases,
-troubleshooting,
-mentoring junior developers,
-documenting practices and processes,
+shipping APIs used by millions of users, interacting with databases,
+troubleshooting, mentoring junior developers, documenting practices and processes,
 laughing way too loud during meetings (please adjust your headphones levels 🙏)
+
 Wanna talk? Send me an email!
